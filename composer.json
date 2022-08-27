@@ -1,0 +1,36 @@
+{
+    "name": "nearata/flarum-ext-embed-twitch",
+    "description": "Allow users to embed content from Twitch.TV.",
+    "keywords": [
+        "flarum",
+        "twitch"
+    ],
+    "type": "flarum-extension",
+    "license": "Unlicense",
+    "require": {
+        "flarum/core": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Nearata",
+            "email": "nearata@protonmail.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nearata\\EmbedTwitch\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Embed Twitch",
+            "category": "feature",
+            "icon": {
+                "name": "fab fa-twitch",
+                "backgroundColor": "#a970ff",
+                "color": "#fff"
+            }
+        }
+    }
+}
