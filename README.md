@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of nearata/flarum-ext-embed-twitch.** Not for installation: use [Packagist](https://packagist.org/packages/nearata/flarum-ext-embed-twitch) or the [upstream repository](https://github.com/Nearata/flarum-ext-embed-twitch).
 
-**0** versions archived · Latest: [`v2.0.1`](https://github.com/flarchive/nearata-flarum-ext-embed-twitch/tree/archive/v2.0.1) · License: `Unlicense` · Flarum: `^1.0`
+**3** versions archived · Latest: [`v2.0.1`](https://github.com/flarchive/nearata-flarum-ext-embed-twitch/tree/archive/v2.0.1) · License: `Unlicense` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2021-03-21 | `>=0.1.0-beta.16 <=0.1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-embed-twitch/tree/archive/v1.0.0) |
+| `v2.0.0` | 2021-06-27 | `^1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-embed-twitch/tree/archive/v2.0.0) |
+| `v2.0.1` | 2022-08-27 | `^1.0` | [Browse](https://github.com/flarchive/nearata-flarum-ext-embed-twitch/tree/archive/v2.0.1) |
 
 Catalog entry: [packages/nearata-flarum-ext-embed-twitch.json](https://github.com/flarchive/archive-index/blob/main/packages/nearata-flarum-ext-embed-twitch.json)
 
